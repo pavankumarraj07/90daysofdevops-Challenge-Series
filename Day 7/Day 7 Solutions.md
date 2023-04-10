@@ -14,7 +14,8 @@ Jenkins Installed:
 
 Write a small blog or article to install these tools using package managers on Ubuntu and CentOS
 
-Yes: Checkout 
+Yes: Checkout
+https://pavankumar07.hashnode.dev/package-manager-systemctl-in-linux
 
 
 check the status of docker service in your system (make sure you completed above tasks, else docker won't be installed)
